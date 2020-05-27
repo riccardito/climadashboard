@@ -1,0 +1,4 @@
+dash==1.9.1
+sqlalchemy==1.2.15
+psycopg2==2.8.5
+pandas==0.25.1
